@@ -1,18 +1,18 @@
 {
 	"basics": {
-		"name": "Kishore",
-		"label": "Architect",
+		"name": "AnyPicks",
+		"label": "AnyPicks",
 		"picture": "profile.jpg",
-		"email": "prakis@gmail.com",
-		"phone": "(912) 98765-4321",
-		"website": "https://pagadala.me/about/",
-		"twitter": "https://twitter.com/prakis",
-		"facebook": "https://www.facebook.com/Stringify.me",
-		"github": "http://github.com/prakis",
-		"summary": "I work as a consultant, designing and developing web (<b>ReactJS</b>, <b>NodeJS</b>) & desktop (<b>C#</b>, <b>JavaFX</b>) apps. I have over 14 years experience in software development and 2 years in Nanotechnology."
+		"email": "info@rocketa.co.jp",
+		"phone": "(03) 1234-5678",
+		"website": "https://www.anypicks.jp/",
+		"twitter": "https://twitter.com/anypicks",
+		"facebook": "https://www.facebook.com/AnyPicks-2725580850846682",
+		"github": "https://github.com/rocketainc/",
+		"summary": "エンジニア同士でテクノロジーの記事をシェアしたり、コメント通じて知識共有するソーシャルテックメディアです。"
 	},
 	"theme": {
-		"url": "https://github.com/prakis/stringify.me-theme",
-		"background" :"#f98008"
+		"url": "https://github.com/rocketainc/stringify.me",
+		"background" :"#52c1a3"
 	}
 }
