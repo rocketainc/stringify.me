@@ -1,7 +1,7 @@
 {
 	"basics": {
 		"name": "AnyPicks",
-		"label": "AnyPicks",
+		"label": "Web Site",
 		"picture": "profile.jpg",
 		"email": "info@rocketa.co.jp",
 		"phone": "(03) 1234-5678",
@@ -12,7 +12,7 @@
 		"summary": "Engineer SNS"
 	},
 	"theme": {
-		"url": "https://github.com/rocketainc/stringify.me",
+		"url": "https://github.com/prakis/stringify.me-theme",
 		"background" :"#52c1a3"
 	}
 }
